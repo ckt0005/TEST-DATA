@@ -5,3 +5,9 @@ Name	a	b	c
 1	5	NA	NA
 1	NA	6	NA
 1	NA	NA	7
+2	2	NA	NA
+2	NA	3	NA
+2	NA	NA	4
+2	5	NA	NA
+2	NA	6	NA
+2	NA	NA	7
